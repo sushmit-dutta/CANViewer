@@ -2,8 +2,6 @@
 
 Interactive CAN bus signal explorer. Decode a log against a DBC, drag signals into frames, and inspect them as **discrete samples**, so gaps in a signal's reporting stay visible instead of being bridged by a line.
 
-> Not affiliated with Vector's CANape.
-
 ## Install and run
 
 Requires [uv](https://docs.astral.sh/uv/) (`curl -LsSf https://astral.sh/uv/install.sh | sh`); it fetches Python 3.11/3.12 and all dependencies for you.
